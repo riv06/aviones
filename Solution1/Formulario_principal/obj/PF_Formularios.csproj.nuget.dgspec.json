@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miste\\Source\\Repos\\Proyecto_Final\\Solution1\\Formulario_principal\\Formulario_principal.csproj": {}
+    "C:\\Users\\miste\\source\\repos\\Proyecto_Final\\Solution1\\Formulario_principal\\PF_Formularios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miste\\Source\\Repos\\Proyecto_Final\\Solution1\\Formulario_principal\\Formulario_principal.csproj": {
+    "C:\\Users\\miste\\source\\repos\\Proyecto_Final\\Solution1\\Formulario_principal\\PF_Formularios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miste\\Source\\Repos\\Proyecto_Final\\Solution1\\Formulario_principal\\Formulario_principal.csproj",
-        "projectName": "Formulario_principal",
-        "projectPath": "C:\\Users\\miste\\Source\\Repos\\Proyecto_Final\\Solution1\\Formulario_principal\\Formulario_principal.csproj",
+        "projectUniqueName": "C:\\Users\\miste\\source\\repos\\Proyecto_Final\\Solution1\\Formulario_principal\\PF_Formularios.csproj",
+        "projectName": "PF_Formularios",
+        "projectPath": "C:\\Users\\miste\\source\\repos\\Proyecto_Final\\Solution1\\Formulario_principal\\PF_Formularios.csproj",
         "packagesPath": "C:\\Users\\miste\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miste\\Source\\Repos\\Proyecto_Final\\Solution1\\Formulario_principal\\obj\\",
+        "outputPath": "C:\\Users\\miste\\source\\repos\\Proyecto_Final\\Solution1\\Formulario_principal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

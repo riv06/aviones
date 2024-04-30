@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Formulario_principal")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PF_Controles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca1ce88cfb6fa04a3fa191c6c6fb1f9520b4d61c")]
-[assembly: System.Reflection.AssemblyProductAttribute("Formulario_principal")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Formulario_principal")]
+[assembly: System.Reflection.AssemblyProductAttribute("PF_Controles")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PF_Controles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

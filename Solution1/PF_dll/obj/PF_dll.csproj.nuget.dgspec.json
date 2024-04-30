@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miste\\Source\\Repos\\Proyecto_Final\\Solution1\\Formulario_principal\\Formulario_principal.csproj": {}
+    "C:\\Users\\miste\\source\\repos\\Proyecto_Final\\Solution1\\PF_dll\\PF_dll.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miste\\Source\\Repos\\Proyecto_Final\\Solution1\\Formulario_principal\\Formulario_principal.csproj": {
+    "C:\\Users\\miste\\source\\repos\\Proyecto_Final\\Solution1\\PF_dll\\PF_dll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miste\\Source\\Repos\\Proyecto_Final\\Solution1\\Formulario_principal\\Formulario_principal.csproj",
-        "projectName": "Formulario_principal",
-        "projectPath": "C:\\Users\\miste\\Source\\Repos\\Proyecto_Final\\Solution1\\Formulario_principal\\Formulario_principal.csproj",
+        "projectUniqueName": "C:\\Users\\miste\\source\\repos\\Proyecto_Final\\Solution1\\PF_dll\\PF_dll.csproj",
+        "projectName": "PF_dll",
+        "projectPath": "C:\\Users\\miste\\source\\repos\\Proyecto_Final\\Solution1\\PF_dll\\PF_dll.csproj",
         "packagesPath": "C:\\Users\\miste\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miste\\Source\\Repos\\Proyecto_Final\\Solution1\\Formulario_principal\\obj\\",
+        "outputPath": "C:\\Users\\miste\\source\\repos\\Proyecto_Final\\Solution1\\PF_dll\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-windows7.0": {
-            "targetAlias": "net8.0-windows",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -57,9 +57,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"

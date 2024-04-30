@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miste\\Source\\Repos\\Proyecto_Final\\Solution1\\Formulario_principal\\PF_Formularios.csproj",
-      "projectName": "PF_Formularios",
-      "projectPath": "C:\\Users\\miste\\Source\\Repos\\Proyecto_Final\\Solution1\\Formulario_principal\\PF_Formularios.csproj",
+      "projectUniqueName": "C:\\Users\\miste\\source\\repos\\Proyecto_Final\\Solution1\\PF_Controles\\PF_Controles.csproj",
+      "projectName": "PF_Controles",
+      "projectPath": "C:\\Users\\miste\\source\\repos\\Proyecto_Final\\Solution1\\PF_Controles\\PF_Controles.csproj",
       "packagesPath": "C:\\Users\\miste\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miste\\Source\\Repos\\Proyecto_Final\\Solution1\\Formulario_principal\\obj\\",
+      "outputPath": "C:\\Users\\miste\\source\\repos\\Proyecto_Final\\Solution1\\PF_Controles\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
